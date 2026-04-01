@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor Assistant",
+  "description": "A professional photo editing assistant powered by Gemini that analyzes images and provides detailed Lightroom/Camera Raw parameters.",
+  "requestFramePermissions": []
+}
